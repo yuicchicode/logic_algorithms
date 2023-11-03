@@ -2,7 +2,7 @@
 
 This repository is intended to help you (and me) to understand the "Hell of programming". The Programming Logic.
 
-As i'm learning new methods of studying and praticing a lot of Algotithms and Logic. I can help you to learn and develop the skill of solving this type of problems. 
+As i'm learning new methods of studying and praticing a lot, about Algorithms and Logic. I can help you to learn and develop the skill of solving this type of problems. 
 
 
 ## Explanation
